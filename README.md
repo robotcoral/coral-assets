@@ -7,6 +7,7 @@
 
 [![Last Commit](https://img.shields.io/github/last-commit/robotcoral/coral-assets)](https://github.com/robotcoral/coral-assets/commits)
 [![Open Issues](https://img.shields.io/github/issues-raw/robotcoral/coral-assets)](https://github.com/robotcoral/coral-assets/issues)
+[![Open Issues](https://img.shields.io/github/issues-pr-raw/robotcoral/coral-assets)](https://github.com/robotcoral/coral-assets/issues)
 
 ---
 
